@@ -40,6 +40,6 @@ Now applying all this experience to **QA**: detail mindset, process thinking, pr
 ---
 
 ## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+- LinkedIn: www.linkedin.com/in/viktor-minin-a152a287
 - X (Twitter): https://twitter.com/Zero2QA
-- Email: yourmail@example.com
+- Email: mininviktor79@gmail.com
